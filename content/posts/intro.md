@@ -6,7 +6,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Hola. 
 
-Para mi la cultura de un profesonial del softwae se basa en lo siguente:
+Para mi, la cultura de un profesonial del softwae se basa en lo siguente:
 
 - Inteligencia Emocional
 - Respeto
