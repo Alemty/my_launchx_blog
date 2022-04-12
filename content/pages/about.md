@@ -9,7 +9,7 @@ menu:
 
 Hola, te voy a contar un poco de mi historia. 🤩
 
-> Soy de Monterrey, Nuevo León, México, un joven apasionado por la tecnología, me identifico como un ser consciente con mucho compromiso social y ecologista, con grandes pretenciones para el futuro aportando lo mas que pueda . 
+> Soy de Monterrey, Nuevo León, México, un joven apasionado por la tecnología, me identifico como un ser consciente con mucho compromiso social y ecologista, con grandes pretenciones para el futuro aportando mis conocimientos en la Web2 y con intereses de crear proyectos futuros en la Web3. 
 
 **El origen de mi interés por las computadoras:** Cuando tenía 8 años, mi padre me envió desde EUA mi primera computadora personal, en ese momento se me hacía un dispositivo muy grande de la marca Compaq, a pesar de ser muy pequeño comencé a utilizarla y desde ese momento nació mi pasión por la tecnología, me comencé a juntar con un vecino que era mayor que yo y que también tenía su propia computadora, él me enseño los primeros procesos para cambiar ese viejo sistema operativo Windows ME, por el que en ese momento era la sensación de los sistemas operativos "Windows XP", empecé a relacionarme con ese entorno.
 
